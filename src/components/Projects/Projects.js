@@ -61,7 +61,6 @@ function Projects() {
               isBlog={false}
               title="Busy Toddler - Kid's play items booking app"
               description="Busy Toddler is a kid's play items booking app where users can conveniently book play items for children's events. Users can browse product details, add items to the cart for easy checkout, and fill out a 'Contact Us' form. The form data is automatically saved in Google Sheets, and the admin is notified via Gmail for seamless communication."
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://busy-toddler-2.vercel.app/
 "
             />
@@ -95,9 +94,6 @@ function Projects() {
               imgPath={ryde}
               isBlog={false}
               title="Ryde - Car Booking App"
-              // description="Coming Soon..."
-              // ghLink="https://github.com/soumyajit4419/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
